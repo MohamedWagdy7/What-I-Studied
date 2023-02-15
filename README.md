@@ -18,7 +18,12 @@
 ## Web Attacks
 ### [XSS attack (Video)](https://www.youtube.com/watch?v=bDfZ-LA0ZkA&list=PLdxfDCLPISTRvbPZ_mMUQtDMZuV4nSRJb)
 ### [XSS attack (PortSwigger)](https://portswigger.net/web-security/cross-site-scripting)
+## Bug Hunting
+### [Bug Bounty Hunt Essentials (PDF)](https://github.com/skilincer/CyberSource/blob/master/bug-bounty-hunting-essentials-p2p.pdf)
+### [Real World Bug Hunting (PDF)](https://www.pdfdrive.com/real-world-bug-hunting-a-field-guide-to-web-hacking-real-world-bug-hunting-a-field-guide-to-web-hacking-e200799600.html)
+### [Web Hacking 101 (PDF)](https://www.pdfdrive.com/web-hacking-101-e26570613.html)
 ## Labs
 ### [bWAPP (offline lab)](https://sourceforge.net/projects/bwapp)
 ### [DVWA (offline lab)](https://sourceforge.net/projects/dvwa.mirror)
 ### [XVWA (offline lab)](https://github.com/s4n7h0/xvwa)
+### [PortSwigger Labs](https://portswigger.net/web-security/dashboard)
